@@ -1,4 +1,4 @@
-# JS-Flappy-Bird
+# JS-Flappy-Caca
 Remake of the Original FlappyBird Using **JS** &amp; **HTML Canvas** 
 # [Play it.](https://aaarafat.github.io/JS-Flappy-Bird/index.html)
 # Demo
